@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfd9b708-f883-4078-b5b8-6cc21d33c434" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ExamModule3/app/Http/Controllers/AgencyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/ExamModule3/app/Http/Controllers/AgencyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-1.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-3.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-4.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/color-5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/inverse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/color/inverse.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/generic-class.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/generic-class.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/menu.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/responsive.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/css/svg-weather.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/ico-fonts/css/icofont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/ico-fonts/fonts/icofont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/ico-fonts/fonts/icofont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/ico-fonts/fonts/icofont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/ico-fonts/fonts/icofont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/icofont/css/icofont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/icofont/fonts/icofont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/icofont/fonts/icofont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/icofont/fonts/icofont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/icofont/fonts/icofont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/simple-line-icons/css/simple-line-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/simple-line-icons/fonts/Simple-Line-Icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/simple-line-icons/fonts/Simple-Line-Icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/simple-line-icons/fonts/Simple-Line-Icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/simple-line-icons/fonts/Simple-Line-Icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/simple-line-icons/fonts/Simple-Line-Icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/themify-icons/fonts/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/themify-icons/fonts/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/themify-icons/fonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/themify-icons/fonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/icon/themify-icons/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/authentication-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/avatar-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/avatar-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/avatar-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/avatar-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/avatar-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/l1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/l2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/l3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/l4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/l5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/l6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/mixin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/single-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/single.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/sl1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/sl2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/sl3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/sl4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/sl5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/sl6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/smixin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/v1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/v2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/v3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/light-box/v4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/lockscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/logo-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/widget/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/widget/contact-card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/widget/user-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/widget/user-block-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/widget/user-block-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/widget/user-block-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/widget/user-block-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/images/widget/user-block-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/js/common-pages.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/js/main.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/js/menu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/js/modernizr-custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/js/modernizr-custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/accordion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/advance-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/animation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/chart-float.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/chart-morris.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/elements-materialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/elements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/font-awesome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/iconfonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/material-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/notification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/preloader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/range-slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/simple-line-icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/typicon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/pages/weather-icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.colorhelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.categories.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.crosshair.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.errorbars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.fillbetween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.navigate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.pie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.selection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.stack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.symbol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.threshold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.flot.time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Flot/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Waves/waves.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/Waves/waves.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/css/bootstrap-datetimepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.standalone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.standalone.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.standalone.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker.standalone.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.standalone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.standalone.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.standalone.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/css/bootstrap-datepicker3.standalone.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.az.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.bg.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.bs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ca.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.cs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.cy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.da.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.de.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.el.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.en-AU.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.en-GB.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.eo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.es.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.et.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.eu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.fa.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.fi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.fo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.fr-CH.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.fr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.gl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.he.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.hr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.hu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.hy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.id.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.is.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.it-CH.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.it.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ja.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ka.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.kh.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.kk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ko.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.kr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.lt.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.lv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.me.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.mk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.mn.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ms.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.nb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.nl-BE.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.nl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.no.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.pl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.pt-BR.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.pt.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ro.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.rs-latin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.rs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.ru.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.sk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.sl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.sq.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.sr-latin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.sr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.sv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.sw.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.th.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.tr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.uk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.vi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.zh-CN.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/dist/locales/bootstrap-datepicker.zh-TW.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-datepicker/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-daterangepicker/daterangepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-daterangepicker/daterangepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-material-datetimepicker/font/Material-Design-Icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-material-datetimepicker/font/Material-Design-Icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-material-datetimepicker/font/Material-Design-Icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-material-datetimepicker/font/Material-Design-Icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-material-datetimepicker/font/Material-Design-Icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-maxlength/src/bootstrap-maxlength.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-multiselect/dist/css/bootstrap-multiselect.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-multiselect/dist/js/bootstrap-multiselect-collapsible-groups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-multiselect/dist/js/bootstrap-multiselect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-multiselect/dist/less/bootstrap-multiselect.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput-typeahead.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/examples/assets/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/examples/assets/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/examples/assets/app_bs2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/examples/assets/app_bs3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/examples/assets/cities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/examples/assets/citynames.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/examples/bootstrap-2.3.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/src/bootstrap-tagsinput-angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/src/bootstrap-tagsinput-typeahead.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/src/bootstrap-tagsinput.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap-tagsinput/src/bootstrap-tagsinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bower-jquery-easyPieChart/dist/easypiechart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bower-jquery-easyPieChart/dist/easypiechart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bower-jquery-easyPieChart/dist/jquery.easypiechart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bower-jquery-easyPieChart/dist/jquery.easypiechart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/bower-jquery-easyPieChart/src/easypiechart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/chartist/dist/chartist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/chartist/dist/chartist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/chartist/dist/chartist.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/chartist/dist/chartist.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/charts/chartlist/js/chartist-plugin-threshold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/charts/echarts/js/echarts-all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/charts/nv-chart/js/stream_layers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/classie/classie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/countdown/js/jquery.countdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/countdown/js/jquery.counterup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/d3/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/d3/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/d3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/d3/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/d3/d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/d3/d3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/datepicker/js/moment-with-locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-slimscroll/jquery.slimscroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/dist/jquery.sparkline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/dist/jquery.sparkline.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/chart-bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/chart-box.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/chart-bullet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/chart-discrete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/chart-line.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/chart-pie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/chart-tristate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/interact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/rangemap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/simpledraw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/vcanvas-base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/vcanvas-canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-sparkline/src/vcanvas-vml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery-ui/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jquery.nicescroll/jquery.nicescroll.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jscolor/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jscolor/arrow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jscolor/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jscolor/cross.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jscolor/hs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jscolor/hv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/jscolor/jscolor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/light-box/css/ekko-lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/light-box/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/light-box/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/light-box/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/light-box/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/light-box/js/ekko-lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/css/lightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/js/lightbox-plus-jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/js/lightbox-plus-jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/js/lightbox-plus-jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/js/lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/js/lightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/dist/js/lightbox.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/src/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/src/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/src/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/src/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/src/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/lightbox2/src/js/lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ar-dz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ar-ly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ar-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ar-sa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ar-tn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/bo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/cv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/de-at.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/dv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/en-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/en-nz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/es-do.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/fr-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/fy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/gd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/hy-am.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/jv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/kk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/lb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/lo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/mi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/mr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ms-my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/nl-be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/nn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/pa-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/se.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/sr-cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/ta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/te.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/tet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/tl-ph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/tlh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/tzl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/tzm-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/tzm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/uz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/x-pseudo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/yo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/zh-hk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/locale/zh-tw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/min/locales.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/min/locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/min/moment-with-locales.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/min/moment-with-locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/min/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/min/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/check-overflow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/date-from-array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/from-anything.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/from-array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/from-object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/from-string-and-array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/from-string-and-format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/from-string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/local.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/parsing-flags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/utc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/create/valid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/abs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/add-subtract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/as.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/bubble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/constructor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/create.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/duration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/get.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/humanize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/iso-string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/duration/prototype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/format/format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/base-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/constructor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/formats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/invalid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/lists.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/locale.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/locales.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/ordinal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/pre-post-format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/prototype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/relative.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/locale/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/add-subtract.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/compare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/constructor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/creation-data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/diff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/from.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/get-set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/locale.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/min-max.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/now.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/prototype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/start-end-of.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/to-type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/to.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/moment/valid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/parse/regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/parse/token.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/aliases.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/day-of-month.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/day-of-week.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/day-of-year.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/hour.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/millisecond.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/minute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/month.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/priorities.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/quarter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/second.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/timestamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/timezone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/units.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/week-calendar-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/week-year.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/week.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/units/year.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/abs-ceil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/abs-floor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/abs-round.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/compare-arrays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/deprecate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/extend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/has-own-prop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/hooks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/index-of.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/is-array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/is-date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/is-function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/is-number.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/is-object-empty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/is-object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/is-undefined.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/some.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/to-int.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/lib/utils/zero-fill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ar-dz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ar-ly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ar-ma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ar-sa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ar-tn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/bo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/cv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/de-at.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/dv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/en-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/en-nz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/es-do.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/fr-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/fy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/gd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/hy-am.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/jv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/kk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/lb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/lo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/mi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/mr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ms-my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/my.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ne.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/nl-be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/nn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/pa-in.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/se.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/sr-cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/ta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/te.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/tet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/tl-ph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/tlh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/tzl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/tzm-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/tzm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/uz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/x-pseudo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/yo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/zh-hk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/locale/zh-tw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/moment/src/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/_template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/area-as-line.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/area.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/bar-colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/bar-no-axes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/days.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/decimal-custom-hover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/diagonal-xlabels-bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/diagonal-xlabels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/donut-colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/donut-formatter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/donut.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/dst.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/goals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/lib/example.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/lib/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/months-no-smooth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/negative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/no-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/non-continuous.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/non-date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/quarters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/resize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/stacked_bars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/timestamps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/updating.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/weeks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/examples/years.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/morris.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/morris.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/morris.js/morris.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/multi-select/js/jquery.quicksearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/multiselect/css/multi-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/multiselect/img/switch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/multiselect/js/jquery.multi-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/notification/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/notification/css/notification.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/notification/js/bootstrap-growl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/raphael/raphael.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/raphael/raphael.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/rickshaw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/rickshaw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/rickshaw.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/rickshaw.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/css/detail.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/css/graph.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/css/legend.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/helpers/endUMD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/helpers/startUMD.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Color.Palette.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Compat.ClassList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Fixtures.Color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Fixtures.Number.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Fixtures.RandomData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Fixtures.Time.Local.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Fixtures.Time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Annotate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Axis.Time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Axis.X.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Axis.Y.Scaled.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Axis.Y.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Behavior.Series.Highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Behavior.Series.Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Behavior.Series.Toggle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.HoverDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.JSONP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Legend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.RangeSlider.Preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.RangeSlider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Renderer.Area.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Renderer.Bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Renderer.Line.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Renderer.LinePlot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Renderer.Multi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Renderer.ScatterPlot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Renderer.Stack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Smoother.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.Socketio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Graph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Series.FixedDuration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.Series.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/src/js/Rickshaw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/example_01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/example_02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/example_03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/example_04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/example_05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/example_06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/example_07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/transform.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/transform_epoch.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/transform_region.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/vendor/prettify/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/tutorial/vendor/prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/vendor/d3.layout.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/vendor/d3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/vendor/d3.v2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/rickshaw/vendor/d3.v3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/search/css/component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/search/img/magnifier.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/css/s2-docs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/css/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/css/select2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/css/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/sr-Cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/i18n/zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/select2.full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/select2.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/dist/js/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/banner.end.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/banner.start.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/jquery.mousewheel.shim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/jquery.select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/jquery.shim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/compat/containerCss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/compat/dropdownCss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/compat/initSelection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/compat/inputData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/compat/matcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/compat/query.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/compat/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/data/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/data/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/data/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/data/maximumInputLength.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/data/maximumSelectionLength.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/data/minimumInputLength.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/data/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/data/tags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/data/tokenizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/diacritics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown/attachBody.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown/attachContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown/closeOnSelect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown/hidePlaceholder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown/infiniteScroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown/minimumResultsForSearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown/selectOnClose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/dropdown/stopPropagation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/sr-Cyrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/i18n/zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/results.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/selection/allowClear.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/selection/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/selection/clickMask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/selection/eventRelay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/selection/multiple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/selection/placeholder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/selection/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/selection/single.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/selection/stopPropagation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/translation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/select2/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/wrapper.end.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/select2/src/js/wrapper.start.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/spectrum/spectrum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/spectrum/spectrum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/syntaxhighlighter/scripts/shBrushJScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/syntaxhighlighter/scripts/shBrushXml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/syntaxhighlighter/scripts/shCore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/syntaxhighlighter/styles/shCoreDjango.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/css/tether-theme-arrows-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/css/tether-theme-arrows-dark.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/css/tether-theme-arrows.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/css/tether-theme-arrows.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/css/tether-theme-basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/css/tether-theme-basic.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/css/tether.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/css/tether.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/js/tether.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/dist/js/tether.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/css/helpers/_tether-theme-arrows.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/css/helpers/_tether-theme-basic.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/css/helpers/_tether.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/css/mixins/_inline-block.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/css/mixins/_pie-clearfix.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/css/tether-theme-arrows-dark.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/css/tether-theme-arrows.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/css/tether-theme-basic.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/css/tether.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/js/abutment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/js/constraint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/js/markAttachment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/js/shift.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/js/tether.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/tether/src/js/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/public/plugins/waypoints/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/ExamModule3/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/resources/views/status/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/ExamModule3/resources/views/status/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamModule3/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/ExamModule3/routes/web.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/ExamModule3/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/composer" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/ExamModule3/vendor/theseer/tokenizer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1uyN7ktNKDwpVrJyqvqzKmbtWDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExamModule3/public/backend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ExamModule3/public/backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ExamModule3/public/backend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd9b708-f883-4078-b5b8-6cc21d33c434" name="Default Changelist" comment="" />
+      <created>1625633704741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625633704741</updated>
+      <workItem from="1625633706379" duration="1223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

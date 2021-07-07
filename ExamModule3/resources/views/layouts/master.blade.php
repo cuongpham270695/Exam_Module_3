@@ -14,36 +14,36 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <!-- Favicon icon -->
-    <link rel="shortcut icon" href="{{asset('backend/images/favicon.png')}}" type="image/x-icon">
-    <link rel="icon" href="{{asset('backend/images/favicon.ico')}}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{('backend/images/favicon.png')}}" type="image/x-icon">
+    <link rel="icon" href="{{('backend/images/favicon.ico')}}" type="image/x-icon">
 
     <!-- Google font-->
     <link href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700" rel="stylesheet">
 
     <!-- themify -->
-    <link rel="stylesheet" type="text/css" href="{{asset('backend/icon/themify-icons/themify-icons.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{('backend/icon/themify-icons/themify-icons.css')}}">
 
     <!-- iconfont -->
-    <link rel="stylesheet" type="text/css" href="{{asset('backend/icon/icofont/css/icofont.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{('backend/icon/icofont/css/icofont.css')}}">
 
     <!-- simple line icon -->
-    <link rel="stylesheet" type="text/css" href="{{asset('backend/icon/simple-line-icons/css/simple-line-icons.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{('backend/icon/simple-line-icons/css/simple-line-icons.css')}}">
 
     <!-- Required Fremwork -->
-    <link rel="stylesheet" type="text/css" href="{{asset('backend/plugins/bootstrap/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{('backend/plugins/bootstrap/css/bootstrap.min.css')}}">
 
     <!-- Chartlist chart css -->
-    <link rel="stylesheet" href="{{asset('backend/plugins/chartist/dist/chartist.css')}}" type="text/css" media="all">
+    <link rel="stylesheet" href="{{('backend/plugins/chartist/dist/chartist.css')}}" type="text/css" media="all">
 
     <!-- Weather css -->
-    <link href="{{asset('backend/css/svg-weather.css')}}" rel="stylesheet">
+    <link href="{{('backend/css/svg-weather.css')}}" rel="stylesheet">
 
 
     <!-- Style.css -->
-    <link rel="stylesheet" type="text/css" href="{{asset('backend/css/main.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{('backend/css/main.css')}}">
 
     <!-- Responsive.css-->
-    <link rel="stylesheet" type="text/css" href="{{asset('backend/css/responsive.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{('backend/css/responsive.css')}}">
 
 </head>
 
@@ -55,21 +55,18 @@
 <div class="wrapper">
     <!-- Navbar-->
     <header class="main-header-top hidden-print">
-        <a href="index.html" class="logo"><img class="img-fluid able-logo" src="{{asset('backend/images/logo.png')}}"
-                                               alt="Theme-logo"></a>
+        <a href="index.html" class="logo"><img class="img-fluid able-logo" src="{{('backend/images/logo.png')}}" alt="Theme-logo"></a>
         <nav class="navbar navbar-static-top">
             <!-- Sidebar toggle button-->
             <a href="#!" data-toggle="offcanvas" class="sidebar-toggle"></a>
             <ul class="top-nav lft-nav">
                 <li>
-                    <a href="#!" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
-                       class="dropdown-toggle drop icon-circle drop-image">
+                    <a href="#!" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle drop icon-circle drop-image">
                         <i class="ti-files"> </i><span> Files</span>
                     </a>
                 </li>
                 <li class="dropdown">
-                    <a href="#!" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
-                       class="dropdown-toggle drop icon-circle drop-image">
+                    <a href="#!" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle drop icon-circle drop-image">
                         <span>Dropdown </span><i class=" icofont icofont-simple-down"></i>
                     </a>
                     <ul class="dropdown-menu settings-menu">
@@ -107,28 +104,24 @@
                             <li class="bell-notification">
                                 <a href="javascript:;" class="media">
                               <span class="media-left media-icon">
-                    <img class="img-circle" src="{{asset('backend/images/avatar-1.png'}}" alt="User Image">
+                    <img class="img-circle" src="{{('backend/images/avatar-1.png')}}" alt="User Image">
                   </span>
-                                    <div class="media-body"><span class="block">Lisa sent you a mail</span><span
-                                            class="text-muted block-time">2min ago</span></div>
+                                    <div class="media-body"><span class="block">Lisa sent you a mail</span><span class="text-muted block-time">2min ago</span></div>
                                 </a>
                             </li>
                             <li class="bell-notification">
                                 <a href="javascript:;" class="media">
                               <span class="media-left media-icon">
-                    <img class="img-circle" src="{{asset('backend/images/avatar-2.png'}}" alt="User Image">
+                    <img class="img-circle" src="{{('backend/images/avatar-2.png')}}" alt="User Image">
                   </span>
-                                    <div class="media-body"><span class="block">Server Not Working</span><span
-                                            class="text-muted block-time">20min ago</span></div>
+                                    <div class="media-body"><span class="block">Server Not Working</span><span class="text-muted block-time">20min ago</span></div>
                                 </a>
                             </li>
                             <li class="bell-notification">
                                 <a href="javascript:;" class="media"><span class="media-left media-icon">
-                    <img class="img-circle" src="{{asset('backend/images/avatar-3.png'}}" alt="User Image">
+                    <img class="img-circle" src="{{('backend/images/avatar-3.png')}}" alt="User Image">
                   </span>
-                                    <div class="media-body"><span class="block">Transaction xyz complete</span><span
-                                            class="text-muted block-time">3 hours ago</span></div>
-                                </a>
+                                    <div class="media-body"><span class="block">Transaction xyz complete</span><span class="text-muted block-time">3 hours ago</span></div></a>
                             </li>
                             <li class="not-footer">
                                 <a href="#!">See all notifications.</a>
@@ -152,10 +145,8 @@
                     </li>
                     <!-- User Menu-->
                     <li class="dropdown">
-                        <a href="#!" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"
-                           class="dropdown-toggle drop icon-circle drop-image">
-                            <span><img class="img-circle " src="{{asset('backend/images/avatar-1.png'}}" style="width:40px;"
-                                       alt="User Image"></span>
+                        <a href="#!" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle drop icon-circle drop-image">
+                            <span><img class="img-circle " src="{{('backend/images/avatar-1.png')}}" style="width:40px;" alt="User Image"></span>
                             <span>John <b>Doe</b> <i class=" icofont icofont-simple-down"></i></span>
 
                         </a>
@@ -167,7 +158,7 @@
                                 <div class="dropdown-divider m-0"></div>
                             </li>
                             <li><a href="#"><i class="icon-lock"></i> Lock Screen</a></li>
-                            <li><a href="{{route('products.logout')}}"><i class="icon-logout"></i> Logout</a></li>
+                            <li><a href="login1.html"><i class="icon-logout"></i> Logout</a></li>
 
                         </ul>
                     </li>
@@ -177,7 +168,7 @@
                 <div id="morphsearch" class="morphsearch">
                     <form class="morphsearch-form">
 
-                        <input class="morphsearch-input" type="search" placeholder="Search..."/>
+                        <input class="morphsearch-input" type="search" placeholder="Search..." />
 
                         <button class="morphsearch-submit" type="submit">Search</button>
 
@@ -186,39 +177,35 @@
                         <div class="dummy-column">
                             <h2>People</h2>
                             <a class="dummy-media-object" href="#!">
-                                <img class="round"
-                                     src="http://0.gravatar.com/avatar/81b58502541f9445253f30497e53c280?s=50&d=identicon&r=G"
-                                     alt="Sara Soueidan"/>
+                                <img class="round" src="http://0.gravatar.com/avatar/81b58502541f9445253f30497e53c280?s=50&d=identicon&r=G" alt="Sara Soueidan" />
                                 <h3>Sara Soueidan</h3>
                             </a>
 
                             <a class="dummy-media-object" href="#!">
-                                <img class="round"
-                                     src="http://1.gravatar.com/avatar/9bc7250110c667cd35c0826059b81b75?s=50&d=identicon&r=G"
-                                     alt="Shaun Dona"/>
+                                <img class="round" src="http://1.gravatar.com/avatar/9bc7250110c667cd35c0826059b81b75?s=50&d=identicon&r=G" alt="Shaun Dona" />
                                 <h3>Shaun Dona</h3>
                             </a>
                         </div>
                         <div class="dummy-column">
                             <h2>Popular</h2>
                             <a class="dummy-media-object" href="#!">
-                                <img src="{{asset('backend/images/avatar-1.png'}}" alt="PagePreloadingEffect"/>
+                                <img src="{{('backend/images/avatar-1.png')}}" alt="PagePreloadingEffect" />
                                 <h3>Page Preloading Effect</h3>
                             </a>
 
                             <a class="dummy-media-object" href="#!">
-                                <img src="{{asset('backend/images/avatar-1.png'}}" alt="DraggableDualViewSlideshow"/>
+                                <img src="{{('backend/images/avatar-1.png')}}" alt="DraggableDualViewSlideshow" />
                                 <h3>Draggable Dual-View Slideshow</h3>
                             </a>
                         </div>
                         <div class="dummy-column">
                             <h2>Recent</h2>
                             <a class="dummy-media-object" href="#!">
-                                <img src="{{asset('backend/images/avatar-1.png'}}" alt="TooltipStylesInspiration"/>
+                                <img src="{{('backend/images/avatar-1.png')}}" alt="TooltipStylesInspiration" />
                                 <h3>Tooltip Styles Inspiration</h3>
                             </a>
                             <a class="dummy-media-object" href="#!">
-                                <img src="{{asset('backend/images/avatar-1.png'}}" alt="NotificationStyles"/>
+                                <img src="{{('backend/images/avatar-1.png')}}" alt="NotificationStyles" />
                                 <h3>Notification Styles Inspiration</h3>
                             </a>
                         </div>
@@ -242,34 +229,25 @@
                     </a>
                 </li>
                 <li class="nav-level">--- Components</li>
-                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i
-                            class="icon-list"></i><span>List</span><i class="icon-arrow-down"></i></a>
+                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i class="icon-list"></i><span> List</span><i class="icon-arrow-down"></i></a>
                     <ul class="treeview-menu">
-                        <li><a class="waves-effect waves-dark" href="{{route('products.list')}}"><i
-                                    class="icon-arrow-right"></i> Product List</a></li>
-                        <li><a class="waves-effect waves-dark" href="{{route('categories.list')}}"><i
-                                    class="icon-arrow-right"></i> Category List</a></li>
+                        <li><a class="waves-effect waves-dark" href="{{route('agencies.list')}}"><i class="icon-arrow-right"></i> Agency list</a></li>
+                        <li><a class="waves-effect waves-dark" href="{{(route('status.list'))}}"><i class="icon-arrow-right"></i> Status list</a></li>
                     </ul>
                 </li>
 
-                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i class="icon-chart"></i><span> Charts &amp; Maps</span><span
-                            class="label label-success menu-caption">New</span><i class="icon-arrow-down"></i></a>
+                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i class="icon-chart"></i><span> Charts &amp; Maps</span><span class="label label-success menu-caption">New</span><i class="icon-arrow-down"></i></a>
                     <ul class="treeview-menu">
-                        <li><a class="waves-effect waves-dark" href="float-chart.html"><i class="icon-arrow-right"></i>
-                                Float Charts</a></li>
-                        <li><a class="waves-effect waves-dark" href="morris-chart.html"><i class="icon-arrow-right"></i>
-                                Morris Charts</a></li>
+                        <li><a class="waves-effect waves-dark" href="float-chart.html"><i class="icon-arrow-right"></i> Float Charts</a></li>
+                        <li><a class="waves-effect waves-dark" href="morris-chart.html"><i class="icon-arrow-right"></i> Morris Charts</a></li>
                     </ul>
                 </li>
 
-                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i class="icon-book-open"></i><span> Forms</span><i
-                            class="icon-arrow-down"></i></a>
+                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i class="icon-book-open"></i><span> Forms</span><i class="icon-arrow-down"></i></a>
                     <ul class="treeview-menu">
-                        <li><a class="waves-effect waves-dark" href="form-elements-bootstrap.html"><i
-                                    class="icon-arrow-right"></i> Form Elements Bootstrap</a></li>
+                        <li><a class="waves-effect waves-dark" href="form-elements-bootstrap.html"><i class="icon-arrow-right"></i> Form Elements Bootstrap</a></li>
 
-                        <li><a class="waves-effect waves-dark" href="form-elements-advance.html"><i
-                                    class="icon-arrow-right"></i> Form Elements Advance</a></li>
+                        <li><a class="waves-effect waves-dark" href="form-elements-advance.html"><i class="icon-arrow-right"></i> Form Elements Advance</a></li>
                     </ul>
                 </li>
 
@@ -282,27 +260,20 @@
 
                 <li class="nav-level">--- More</li>
 
-                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i
-                            class="icon-docs"></i><span>Pages</span><i class="icon-arrow-down"></i></a>
+                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i class="icon-docs"></i><span>Pages</span><i class="icon-arrow-down"></i></a>
                     <ul class="treeview-menu">
-                        <li class="treeview"><a href="#!"><i class="icon-arrow-right"></i><span> Authentication</span><i
-                                    class="icon-arrow-down"></i></a>
+                        <li class="treeview"><a href="#!"><i class="icon-arrow-right"></i><span> Authentication</span><i class="icon-arrow-down"></i></a>
                             <ul class="treeview-menu">
-                                <li><a class="waves-effect waves-dark" href="register1.html" target="_blank"><i
-                                            class="icon-arrow-right"></i> Register 1</a></li>
+                                <li><a class="waves-effect waves-dark" href="register1.html" target="_blank"><i class="icon-arrow-right"></i> Register 1</a></li>
 
-                                <li><a class="waves-effect waves-dark" href="login1.html" target="_blank"><i
-                                            class="icon-arrow-right"></i><span> Login 1</span></a></li>
-                                <li><a class="waves-effect waves-dark" href="forgot-password.html" target="_blank"><i
-                                            class="icon-arrow-right"></i><span> Forgot Password</span></a></li>
+                                <li><a class="waves-effect waves-dark" href="login1.html" target="_blank"><i class="icon-arrow-right"></i><span> Login 1</span></a></li>
+                                <li><a class="waves-effect waves-dark" href="forgot-password.html" target="_blank"><i class="icon-arrow-right"></i><span> Forgot Password</span></a></li>
 
                             </ul>
                         </li>
 
-                        <li><a class="waves-effect waves-dark" href="404.html" target="_blank"><i
-                                    class="icon-arrow-right"></i> Error 404</a></li>
-                        <li><a class="waves-effect waves-dark" href="sample-page.html"><i class="icon-arrow-right"></i>
-                                Sample Page</a></li>
+                        <li><a class="waves-effect waves-dark" href="404.html" target="_blank"><i class="icon-arrow-right"></i> Error 404</a></li>
+                        <li><a class="waves-effect waves-dark" href="sample-page.html"><i class="icon-arrow-right"></i> Sample Page</a></li>
 
                     </ul>
                 </li>
@@ -310,8 +281,7 @@
 
                 <li class="nav-level">--- Menu Level</li>
 
-                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i
-                            class="icofont icofont-company"></i><span>Menu Level 1</span><i class="icon-arrow-down"></i></a>
+                <li class="treeview"><a class="waves-effect waves-dark" href="#!"><i class="icofont icofont-company"></i><span>Menu Level 1</span><i class="icon-arrow-down"></i></a>
                     <ul class="treeview-menu">
                         <li>
                             <a class="waves-effect waves-dark" href="#!">
@@ -381,12 +351,10 @@
 
                     </div>
                     <div class="main-friend-list">
-                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe"
-                             data-toggle="tooltip" data-placement="left" title="Josephin Doe">
+                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe" data-toggle="tooltip" data-placement="left" title="Josephin Doe">
 
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-1.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-1.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -394,11 +362,9 @@
                                 <span>20min ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="3" data-status="online" data-username="Alice"
-                             data-toggle="tooltip" data-placement="left" title="Alice">
+                        <div class="media friendlist-box" data-id="3" data-status="online" data-username="Alice" data-toggle="tooltip" data-placement="left" title="Alice">
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-2.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-2.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -406,12 +372,9 @@
                                 <span>1 hour ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="7" data-status="offline"
-                             data-username="Michael Scofield" data-toggle="tooltip" data-placement="left"
-                             title="Michael Scofield">
+                        <div class="media friendlist-box" data-id="7" data-status="offline" data-username="Michael Scofield" data-toggle="tooltip" data-placement="left" title="Michael Scofield">
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-3.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-3.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-danger"></div>
                             </a>
                             <div class="media-body">
@@ -419,11 +382,9 @@
                                 <span>3 hours ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="5" data-status="online" data-username="Irina Shayk"
-                             data-toggle="tooltip" data-placement="left" title="Irina Shayk">
+                        <div class="media friendlist-box" data-id="5" data-status="online" data-username="Irina Shayk" data-toggle="tooltip" data-placement="left" title="Irina Shayk">
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-4.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-4.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -431,12 +392,9 @@
                                 <span>1 day ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="6" data-status="offline"
-                             data-username="Sara Tancredi" data-toggle="tooltip" data-placement="left"
-                             title="Sara Tancredi">
+                        <div class="media friendlist-box" data-id="6" data-status="offline" data-username="Sara Tancredi" data-toggle="tooltip" data-placement="left" title="Sara Tancredi">
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-5.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-5.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-danger"></div>
                             </a>
                             <div class="media-body">
@@ -444,11 +402,9 @@
                                 <span>2 days ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe"
-                             data-toggle="tooltip" data-placement="left" title="Josephin Doe">
+                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe" data-toggle="tooltip" data-placement="left" title="Josephin Doe">
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-1.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-1.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -456,11 +412,9 @@
                                 <span>20min ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="3" data-status="online" data-username="Alice"
-                             data-toggle="tooltip" data-placement="left" title="Alice">
+                        <div class="media friendlist-box" data-id="3" data-status="online" data-username="Alice" data-toggle="tooltip" data-placement="left" title="Alice">
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-2.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-2.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -468,12 +422,10 @@
                                 <span>1 hour ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe"
-                             data-toggle="tooltip" data-placement="left" title="Josephin Doe">
+                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe" data-toggle="tooltip" data-placement="left" title="Josephin Doe">
 
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-1.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-1.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -481,11 +433,9 @@
                                 <span>20min ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="3" data-status="online" data-username="Alice"
-                             data-toggle="tooltip" data-placement="left" title="Alice">
+                        <div class="media friendlist-box" data-id="3" data-status="online" data-username="Alice" data-toggle="tooltip" data-placement="left" title="Alice">
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-2.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-2.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -493,12 +443,10 @@
                                 <span>1 hour ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe"
-                             data-toggle="tooltip" data-placement="left" title="Josephin Doe">
+                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe" data-toggle="tooltip" data-placement="left" title="Josephin Doe">
 
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-1.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-1.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -506,11 +454,9 @@
                                 <span>20min ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="3" data-status="online" data-username="Alice"
-                             data-toggle="tooltip" data-placement="left" title="Alice">
+                        <div class="media friendlist-box" data-id="3" data-status="online" data-username="Alice" data-toggle="tooltip" data-placement="left" title="Alice">
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-2.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-2.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -518,12 +464,10 @@
                                 <span>1 hour ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe"
-                             data-toggle="tooltip" data-placement="left" title="Josephin Doe">
+                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe" data-toggle="tooltip" data-placement="left" title="Josephin Doe">
 
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-1.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-1.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -531,12 +475,10 @@
                                 <span>20min ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe"
-                             data-toggle="tooltip" data-placement="left" title="Josephin Doe">
+                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe" data-toggle="tooltip" data-placement="left" title="Josephin Doe">
 
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-1.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-1.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -544,12 +486,10 @@
                                 <span>20min ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe"
-                             data-toggle="tooltip" data-placement="left" title="Josephin Doe">
+                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe" data-toggle="tooltip" data-placement="left" title="Josephin Doe">
 
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-1.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-1.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -557,12 +497,10 @@
                                 <span>20min ago</span>
                             </div>
                         </div>
-                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe"
-                             data-toggle="tooltip" data-placement="left" title="Josephin Doe">
+                        <div class="media friendlist-box" data-id="1" data-status="online" data-username="Josephin Doe" data-toggle="tooltip" data-placement="left" title="Josephin Doe">
 
                             <a class="media-left" href="#!">
-                                <img class="media-object img-circle" src="{{asset('backend/images/avatar-1.png'}}"
-                                     alt="Generic placeholder image">
+                                <img class="media-object img-circle" src="{{('backend/images/avatar-1.png')}}" alt="Generic placeholder image">
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
@@ -584,8 +522,7 @@
         </div>
         <div class="media chat-messages">
             <a class="media-left photo-table" href="#!">
-                <img class="media-object img-circle m-t-5" src="{{asset('backend/images/avatar-1.png'}}"
-                     alt="Generic placeholder image">
+                <img class="media-object img-circle m-t-5" src="{{('backend/images/avatar-1.png')}}" alt="Generic placeholder image">
                 <div class="live-status bg-success"></div>
             </a>
             <div class="media-body chat-menu-content">
@@ -604,8 +541,7 @@
             </div>
             <div class="media-right photo-table">
                 <a href="#!">
-                    <img class="media-object img-circle m-t-5" src="{{asset('backend/images/avatar-2.png'}}"
-                         alt="Generic placeholder image">
+                    <img class="media-object img-circle m-t-5" src="{{('backend/images/avatar-2.png')}}" alt="Generic placeholder image">
                     <div class="live-status bg-success"></div>
                 </a>
             </div>
@@ -615,8 +551,7 @@
                 <input type="text" class="md-form-control" id="inputEmail" name="inputEmail">
                 <label>Share your thoughts</label>
                 <span class="highlight"></span>
-                <span class="bar"></span>
-                <button type="button" class="chat-send waves-effect waves-light">
+                <span class="bar"></span> <button type="button" class="chat-send waves-effect waves-light">
                     <i class="icofont icofont-location-arrow f-20 "></i>
                 </button>
 
@@ -680,12 +615,9 @@
                     </div>
                 </div>
             </div>
-
-            <!-- 2-1 block start -->
-            <div class="container">
-                @yield('content')
-            </div>
-            <!-- 2-1 block end -->
+            <!-- 4-blocks row end -->
+        @yield('content')
+        <!-- 2-1 block end -->
         </div>
         <!-- Main content ends -->
         <!-- Container-fluid ends -->
@@ -708,31 +640,31 @@
         <ul class="iew-download">
             <li>
                 <a href="http://www.google.com/chrome/">
-                    <img src="{{asset('backend/images/browser/chrome.png')}}" alt="Chrome">
+                    <img src="{{('backend/images/browser/chrome.png')}}" alt="Chrome">
                     <div>Chrome</div>
                 </a>
             </li>
             <li>
                 <a href="https://www.mozilla.org/en-US/firefox/new/">
-                    <img src="{{asset('backend/images/browser/firefox.png')}}" alt="Firefox">
+                    <img src="{{('backend/images/browser/firefox.png')}}" alt="Firefox">
                     <div>Firefox</div>
                 </a>
             </li>
             <li>
                 <a href="http://www.opera.com">
-                    <img src="{{asset('backend/images/browser/opera.png')}}" alt="Opera">
+                    <img src="{{('backend/images/browser/opera.png')}}" alt="Opera">
                     <div>Opera</div>
                 </a>
             </li>
             <li>
                 <a href="https://www.apple.com/safari/">
-                    <img src="{{asset('backend/images/browser/safari.png')}}" alt="Safari">
+                    <img src="{{('backend/images/browser/safari.png')}}" alt="Safari">
                     <div>Safari</div>
                 </a>
             </li>
             <li>
                 <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">
-                    <img src="{{asset('backend/images/browser/ie.png')}}" alt="">
+                    <img src="{{('backend/images/browser/ie.png')}}" alt="">
                     <div>IE (9 & above)</div>
                 </a>
             </li>
@@ -744,49 +676,50 @@
 <!-- Warning Section Ends -->
 
 <!-- Required Jqurey -->
-<script src="{{asset('backend/plugins/Jquery/dist/jquery.min.js')}}"></script>
-<script src="{{asset('backend/plugins/jquery-ui/jquery-ui.min.js')}}"></script>
-<script src="{{asset('backend/plugins/tether/dist/js/tether.min.js')}}"></script>
+<script src="{{('backend/plugins/Jquery/dist/jquery.min.js')}}"></script>
+<script src="{{('backend/plugins/jquery-ui/jquery-ui.min.js')}}"></script>
+<script src="{{('backend/plugins/tether/dist/js/tether.min.js')}}"></script>
 
 <!-- Required Fremwork -->
-<script src="{{asset('backend/plugins/bootstrap/js/bootstrap.min.js')}}"></script>
-{{asset('')}}
+<script src="{{('backend/plugins/bootstrap/js/bootstrap.min.js')}}"></script>
+
 <!-- Scrollbar JS-->
-<script src="{{asset('backend/plugins/jquery-slimscroll/jquery.slimscroll.js')}}"></script>
-<script src="{{asset('backend/plugins/jquery.nicescroll/jquery.nicescroll.min.js')}}"></script>
+<script src="{{('backend/plugins/jquery-slimscroll/jquery.slimscroll.js')}}"></script>
+<script src="{{('backend/plugins/jquery.nicescroll/jquery.nicescroll.min.js')}}"></script>
 
 <!--classic JS-->
-<script src="{{asset('backend/plugins/classie/classie.js')}}"></script>
+<script src="{{('backend/plugins/classie/classie.js')}}"></script>
 
 <!-- notification -->
-<script src="{{asset('backend/plugins/notification/js/bootstrap-growl.min.js')}}"></script>
+<script src="{{('backend/plugins/notification/js/bootstrap-growl.min.js')}}"></script>
 
 <!-- Sparkline charts -->
-<script src="{{asset('backend/plugins/jquery-sparkline/dist/jquery.sparkline.js')}}"></script>
+<script src="{{('backend/plugins/jquery-sparkline/dist/jquery.sparkline.js')}}"></script>
 
 <!-- Counter js  -->
-<script src="{{asset('backend/plugins/waypoints/jquery.waypoints.min.js')}}"></script>
-<script src="{{asset('backend/plugins/countdown/js/jquery.counterup.js')}}"></script>
+<script src="{{('backend/plugins/waypoints/jquery.waypoints.min.js')}}"></script>
+<script src="{{('backend/plugins/countdown/js/jquery.counterup.js')}}"></script>
 
 <!-- Echart js -->
-<script src="{{asset('backend/plugins/charts/echarts/js/echarts-all.js')}}"></script>
+<script src="{{('backend/plugins/charts/echarts/js/echarts-all.js')}}"></script>
 
 <script src="https://code.highcharts.com/highcharts.js"></script>
 <script src="https://code.highcharts.com/modules/exporting.js"></script>
 <script src="https://code.highcharts.com/highcharts-3d.js"></script>
 
 <!-- custom js -->
-<script type="text/javascript" src="{{asset('backend/js/main.min.js')}}"></script>
-<script type="text/javascript" src="{{asset('backend/pages/dashboard.js')}}"></script>
-<script type="text/javascript" src="{{asset('backend/pages/elements.js')}}"></script>
-<script src="{{asset('backend/js/menu.min.js')}}"></script>
+<script type="text/javascript" src="{{('backend/js/main.min.js')}}"></script>
+<script type="text/javascript" src="{{('backend/pages/dashboard.js')}}"></script>
+<script type="text/javascript" src="{{('backend/pages/elements.js')}}"></script>
+<script src="{{('backend/js/menu.min.js')}}"></script>
 <script>
     var $window = $(window);
     var nav = $('.fixed-button');
-    $window.scroll(function () {
+    $window.scroll(function(){
         if ($window.scrollTop() >= 200) {
             nav.addClass('active');
-        } else {
+        }
+        else {
             nav.removeClass('active');
         }
     });

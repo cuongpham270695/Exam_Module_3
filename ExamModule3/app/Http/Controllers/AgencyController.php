@@ -58,7 +58,7 @@ class AgencyController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param \App\Models\Agency $product
+     * @param \App\Models\Agency $agency
      * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
 
@@ -66,7 +66,7 @@ class AgencyController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param \App\Models\Agency $product
+     * @param \App\Models\Agency $agency
      * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
     public function edit($id)
@@ -93,7 +93,7 @@ class AgencyController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param \App\Models\Agency $product
+     * @param \App\Models\Agency $agency
      * @return \Illuminate\Http\RedirectResponse
      */
     public function destroy($id)
